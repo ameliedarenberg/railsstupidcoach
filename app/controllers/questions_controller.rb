@@ -1,4 +1,4 @@
 class QuestionsController < ApplicationController
-  def about
+  def ask
   end
 end
